@@ -45,7 +45,7 @@ root.left.left = TreeNode.new(4)
 root.left.right = TreeNode.new(5)
 puts tree_height(root)
 ```
-{: .repl #tree_height title="Find the Height of a Binary Tree" readonly_lines="[1,2,3,4,5,7]"}
+{: .repl #tree_height title="Find the Height of a Binary Tree" readonly_lines="[1,2,3,4,5,6,7,8,9]"}
 
 ```ruby
 describe "Tree Height" do
