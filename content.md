@@ -14,7 +14,7 @@ A binary tree is a data structure where each node has at most two children, refe
 The height of a binary tree is measured as the number of nodes along the longest path from the root node to a leaf node.
 For a simple binary tree:
 
-![Example of a binary tree](./assets/binary-tree-ds.png)
+![Example of a binary tree](/assets/binary-tree-ds.png)
 
 A tree with only one node (the root) has a height of 1.
 A tree with a root and one child has a height of 2.
